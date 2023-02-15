@@ -1,0 +1,13 @@
+5
+21121234
+Nguyen Van A
+9.9
+21121239
+Nguyen Van B
+9.9
+21121231
+Nguyen Van C
+9.9
+21121233
+Nguyen Van D
+9.9
